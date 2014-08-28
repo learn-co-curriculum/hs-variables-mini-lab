@@ -27,7 +27,6 @@ puts dog + cat
 ```
 band = "The Beatles"
 puts "My favorite band is " + band 
-
 ```
 
 ####4 (fix the output so it looks right):
@@ -44,7 +43,7 @@ puts "The president of the US is " + first.capitalize + last.capitalize + "years
 artist_first = "NiKKi"
 artist_last = "MiNaj"
 
-"When I listen to" + artist_first.upcase + " " + artist_last.downcase + "I feel like my brain is melting."
+puts "When I listen to" + artist_first.upcase + " " + artist_last.downcase + "I feel like my brain is melting."
 ```
 
 ####6
