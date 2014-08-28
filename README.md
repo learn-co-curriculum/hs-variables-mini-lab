@@ -5,7 +5,7 @@ languages: ruby
 
 #Mini-Lab: Variables Practice
 
-What will the return value be after running each of these? Talk to a partner and decide on an answer before running your code from a ruby file.
+What will the return value be after running each of these? Talk to a partner and decide on an answer before running your code from a ruby file that you create called variables_practice.rb.
 
 ####1:
 ```ruby
