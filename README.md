@@ -5,7 +5,7 @@ languages: ruby
 
 #Mini-Lab: Variables Practice
 
-What will the return value be after running each of these? Talk to a partner and decide on an answer before running your code from a ruby file that you create called variables_practice.rb.
+What will be printed to the screen after running each of these? Talk to a partner and decide on an answer before running your code from a ruby file that you create called variables_practice.rb.
 
 ####1:
 ```ruby
@@ -56,7 +56,7 @@ puts "Hi. I'm " + name.upcase + ". I'm from " + location.swapcase + "and in ten 
 ```
 
 ####7
-Assign your first name to a variable called `first` and your last name to a variable called `last`. Assign the number of siblings you have to a variable called `siblings`. Out a string using these variables that says your full name and the number of siblings that you have in the form of a sentence.
+Assign your first name to a variable called `first` and your last name to a variable called `last`. Assign the number of siblings you have to a variable called `siblings`. Output a string using these variables that says your full name and the number of siblings that you have in the form of a sentence.
 
 ####8
 Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Output the product of these three numbers. Then output the sum of the three numbers. Assign each of these to a new variable and then find the difference between the product and the sum.
