@@ -35,7 +35,7 @@ first = "BARACK"
 last = "OBAMA"
 age = 53
 
-puts "The president of the US is " + first.capitalize + last.capitalize + "and he is " + "years old."
+puts "The president of the US is " + first.capitalize + last.capitalize + "and he is " + age.to_s + "years old."
 ```
 
 ####5
