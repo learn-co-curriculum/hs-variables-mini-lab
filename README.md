@@ -1,6 +1,8 @@
 ---
 tags: kids, variables, strings
 languages: ruby
+level: 1
+type: lab
 ---
 
 #Mini-Lab: Variables Practice
