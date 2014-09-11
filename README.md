@@ -5,7 +5,7 @@ level: 1
 type: lab
 ---
 
-#Mini-Lab: Variables Practice
+##Mini-Lab: Variables Practice
 
 What will be printed to the screen after running each of these? Talk to a partner and decide on an answer before running your code from a ruby file that you create called variables_practice.rb.
 
