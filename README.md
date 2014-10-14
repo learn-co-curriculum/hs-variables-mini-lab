@@ -7,6 +7,54 @@ type: lab
 
 ##Mini-Lab: Variables Practice
 
+
+###What is a Variable?
+We use variables in programming to store pieces of data. Variables can store any type of data (strings, integers, floats, etc). A variable names contain all lowercase letters. For example:
+
+```ruby
+dog = "Fido"
+```
+
+In this example, all we've done is defined a variable named `dog` and set it equal to the string `Fido`. Now, any time we tell our program to `puts dog`, it will print out `Fido`.
+
+```ruby
+puts dog
+puts dog
+puts dog
+```
+
+In this example, we should see `Fido` printed out three times.
+
+What would happen if we did the following:
+
+```ruby
+name = "Fido"
+name = "Bessie"
+
+puts name
+```
+
+On the first line, we assigned the variable `name` to store `Fido`. On the next line, we reassigned the value of the variable `name` to store `Bessie`. Each variable can only store one value, so all we did was overwrite the value of the `name` variable. When we `puts name` on the last line, we will see `Bessie` printed out.
+
+What if we want to have more than one word in our variable? Like:
+
+```ruby
+best friend = "Steph"
+
+puts best friend
+```
+
+Ruby gives us an error! `Undefined method Best`. Ruby doesn't know what `best` is because of the space between the words `best` and `friend`. It's just like when we're creating directories or files in terminal, the spaces signify a different variable. Instead, replace spaces with underscores:
+
+```ruby
+best_friend = "Steph"
+
+puts best_friend
+```
+
+###Let's practice!
+
+ 
 What will be printed to the screen after running each of these? Talk to a partner and decide on an answer before running your code from a ruby file that you create called variables_practice.rb.
 
 ####1:
