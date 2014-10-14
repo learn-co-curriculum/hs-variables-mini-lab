@@ -9,7 +9,7 @@ type: lab
 
 
 ###What is a Variable?
-We use variables in programming to store pieces of data. Variables can store any type of data (strings, integers, floats, etc). A variable name contain all lowercase letters. For example:
+We use variables in programming to store pieces of data. Variables can store any type of data (strings, integers, floats, etc). A variable name contains all lowercase letters. For example:
 
 ```ruby
 dog = "Fido"
