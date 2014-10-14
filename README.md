@@ -44,7 +44,7 @@ best friend = "Steph"
 puts best friend
 ```
 
-Ruby gives us an error! `Undefined method Best`. Ruby doesn't know what `best` is because of the space between the words `best` and `friend`. It's just like when we're creating directories or files in terminal, the spaces signify a different variable. Instead, replace spaces with underscores:
+Ruby gives us an error! `undefined method 'best'`. Ruby doesn't know what `best` is because of the space between the words `best` and `friend`. It's just like when we're creating directories or files in terminal, the spaces signify a different variable. Instead, replace spaces with underscores:
 
 ```ruby
 best_friend = "Steph"
