@@ -44,6 +44,7 @@ puts best_friend
 What will be printed to the screen after running each of these? Talk to a partner and decide on an answer before running your code from a Ruby file that you create called `variables_practice.rb`.
 ???
 # Variables Practice
+
 ?: What is the outcome of running the code below?
 ```ruby
 a = 25
@@ -52,6 +53,7 @@ b = 36
 puts a * b
 ```
 [-]
+
 ?: What is the outcome of running the code below? 
 ```
 dog = "Ralph"
@@ -60,6 +62,7 @@ cat = "Whiskers"
 puts dog + cat
 ```
 [-]
+
 ?: What is the outcome of running the code below?
 ```
 band = "The Beatles"
@@ -67,6 +70,7 @@ band = "The Beatles"
 puts "My favorite band is " + band 
 ```
 [-]
+
 ?: What is the outcome of running the code below?
 ```
 first = "BARACK"
@@ -76,6 +80,7 @@ age = 53
 puts "The president of the US is " + first.capitalize + last.capitalize + "and he is " + age.to_s + "years old."
 ```
 [-]
+
 ?: What is the outcome of running the code below?
 ```
 artist_first = "NiCKi"
@@ -84,6 +89,7 @@ artist_last = "MiNaj"
 puts "When I listen to" + artist_first.upcase + " " + artist_last.downcase + "I feel like my brain is melting."
 ```
 [-]
+
 ?: What is the outcome of running the code below?
 ```
 name = "Bill"
@@ -97,4 +103,5 @@ puts "Hi. I'm " + name.upcase + ". I'm from " + location.swapcase + "and in ten 
 ?: What would be the difference between the product and the sum?
 Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Output the product of these three numbers. Then output the sum of the three numbers. Assign each of these to a new variable and then find the difference between the product and the sum.
 [-]
+
 ???
