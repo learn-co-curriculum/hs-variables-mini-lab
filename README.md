@@ -114,7 +114,7 @@ puts "Hi. I'm " + name.upcase + ". I'm from " + location.swapcase + "and in ten 
 
 ?: What would be the difference between the product and the sum?
 Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Output the product of these three numbers. Then output the sum of the three numbers. Assign each of these to a new variable and then find the difference between the product and the sum.
-```
+
 ( ) 35,292
 (x) 922,495,466
 ( ) 922,466,495
