@@ -52,7 +52,9 @@ b = 36
 
 puts a * b
 ```
-[-]
+( ) 61
+(x) 900
+( ) 2536
 
 ?: What is the outcome of running the code below? 
 ```
@@ -61,7 +63,9 @@ cat = "Whiskers"
 
 puts dog + cat
 ```
-[-]
+(x) RalphWhiskers
+( ) DogCat
+( ) Ralph Whiskers
 
 ?: What is the outcome of running the code below?
 ```
@@ -69,7 +73,9 @@ band = "The Beatles"
 
 puts "My favorite band is " + band 
 ```
-[-]
+( ) My favorite band isThe Beatles
+(x) My favorite band is The Beatles
+( ) myfavoritebandisthebeatles
 
 ?: What is the outcome of running the code below?
 ```
@@ -79,7 +85,9 @@ age = 53
 
 puts "The president of the US is " + first.capitalize + last.capitalize + "and he is " + age.to_s + "years old."
 ```
-[-]
+(x) The president of the US is Barack Obama and he is 53 years old.
+( ) The president of the US is BARACK OBAMA and he is 53 years old.
+( ) The president of the US is Barack Obama and he is fifty-three years old.
 
 ?: What is the outcome of running the code below?
 ```
@@ -88,7 +96,9 @@ artist_last = "MiNaj"
 
 puts "When I listen to" + artist_first.upcase + " " + artist_last.downcase + "I feel like my brain is melting."
 ```
-[-]
+( ) When I listen to NICKI MINAJ I feel like my brain is melting.
+( ) When I listen to Nicki Minaj I feel like my brain is melting.
+(x) When I listen to NICKI minaj I feel like my brain is melting. 
 
 ?: What is the outcome of running the code below?
 ```
@@ -98,10 +108,15 @@ location = "New York"
 
 puts "Hi. I'm " + name.upcase + ". I'm from " + location.swapcase + "and in ten years I'm going to be " + (age+10).to_s
 ```
-[-]
+(x) Hi. I'm BILL. I'm from nEW yORK and in ten years I'm going to be 26
+( ) Hi. I'm BILL. I'm from NEW YORK and in ten years I'm going to be 16
+( ) Hi. I'm Bill. I'm from New York and in ten years I'm going to be 26
 
 ?: What would be the difference between the product and the sum?
 Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Output the product of these three numbers. Then output the sum of the three numbers. Assign each of these to a new variable and then find the difference between the product and the sum.
-[-]
+```
+( ) 35,292
+(x) 922,495,466
+( ) 922,466,495
 
 ???
