@@ -53,7 +53,7 @@ b = 36
 puts a * b
 ```
 ( ) 61
-(x) 900
+(X) 900
 ( ) 2536
 
 ?: What is the outcome of running the code below? 
