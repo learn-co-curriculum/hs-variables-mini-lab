@@ -83,7 +83,7 @@ first = "BARACK"
 last = "OBAMA"
 age = 53
 
-puts "The president of the US is " + first.capitalize + last.capitalize + "and he is " + age.to_s + "years old."
+puts "The president of the US is " + first.capitalize + " " + last.capitalize + " and he is " + age.to_s + " years old."
 ```
 (X) The president of the US is Barack Obama and he is 53 years old.
 ( ) The president of the US is BARACK OBAMA and he is 53 years old.
@@ -94,7 +94,7 @@ puts "The president of the US is " + first.capitalize + last.capitalize + "and h
 artist_first = "NiCKi"
 artist_last = "MiNaj"
 
-puts "When I listen to" + artist_first.upcase + " " + artist_last.downcase + "I feel like my brain is melting."
+puts "When I listen to " + artist_first.upcase + " " + artist_last.downcase + " I feel like my brain is melting."
 ```
 ( ) When I listen to NICKI MINAJ I feel like my brain is melting.
 ( ) When I listen to Nicki Minaj I feel like my brain is melting.
@@ -106,14 +106,14 @@ name = "Bill"
 age = 16
 location = "New York"
 
-puts "Hi. I'm " + name.upcase + ". I'm from " + location.swapcase + "and in ten years I'm going to be " + (age+10).to_s
+puts "Hi. I'm " + name.upcase + ". I'm from " + location.swapcase + " and in ten years I'm going to be " + (age+10).to_s
 ```
 (X) Hi. I'm BILL. I'm from nEW yORK and in ten years I'm going to be 26
 ( ) Hi. I'm BILL. I'm from NEW YORK and in ten years I'm going to be 16
 ( ) Hi. I'm Bill. I'm from New York and in ten years I'm going to be 26
 
 ?: What would be the difference between the product and the sum?
-Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Output the product of these three numbers. Then output the sum of the three numbers. Assign each of these to a new variable and then find the difference between the product and the sum.
+Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Set a varaible equal to the product of these three numbers. Then set a varaible equal the sum of the three numbers. Find the difference between the product and the sum.
 
 ( ) 35,292
 (X) 922,495,466
