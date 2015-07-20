@@ -113,7 +113,7 @@ puts "Hi. I'm " + name.upcase + ". I'm from " + location.swapcase + " and in ten
 ( ) Hi. I'm Bill. I'm from New York and in ten years I'm going to be 26
 
 ?: What would be the difference between the product and the sum?
-Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Set a varaible equal to the product of these three numbers. Then set a varaible equal the sum of the three numbers. Find the difference between the product and the sum.
+Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Set a varaible equal to the product of these three numbers. Then set a variable equal the sum of the three numbers. Find the difference between the product and the sum.
 
 ( ) 35,292
 (X) 922,495,466
