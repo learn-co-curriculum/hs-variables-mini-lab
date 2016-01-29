@@ -143,4 +143,4 @@ Set `x` equal to 34679, `y` equal to 566 and `z`equal to 47. Set a variable equa
 
 ???
 
-<a href='https://learn.co/lessons/hs-variables-mini-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-variables-mini-lab' title='Mini-Lab: Variables Practice'>Mini-Lab: Variables Practice</a> on Learn.co and start learning to code for free.</p>
